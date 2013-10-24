@@ -1,0 +1,519 @@
+LabVIEW Measurement	
+Writer_Version	2
+Reader_Version	2
+Separator	Tab
+Decimal_Separator	.
+Multi_Headings	Yes
+X_Columns	No
+Time_Pref	Absolute
+Operator	matt
+Date	2013/05/04
+Time	08:38:49.4071946144104003907
+***End_of_Header***	
+	
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:38:49.4071946144104003907	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	8.000000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:38:49.6432080268859863281	
+X_Dimension	Time	
+X0	2.3601341247558594E-1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	9.000000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:38:51.1532945632934570312	
+X_Dimension	Time	
+X0	1.7460999488830566E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	9.000000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:38:51.1552944183349609375	
+X_Dimension	Time	
+X0	1.7480998039245605E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	9.000000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:38:51.6433224678039550781	
+X_Dimension	Time	
+X0	2.2361278533935547E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	13.000000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:38:52.2113552093505859375	
+X_Dimension	Time	
+X0	2.8041605949401855E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	7.000000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:38:52.825389862060546875	
+X_Dimension	Time	
+X0	3.4181952476501465E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	7.000000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:38:53.1764101982116699219	
+X_Dimension	Time	
+X0	3.7692155838012695E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	9.000000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:38:53.8474483489990234375	
+X_Dimension	Time	
+X0	4.4402537345886230E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	8.000000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:38:54.6954970359802246094	
+X_Dimension	Time	
+X0	5.2883024215698242E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	8.000000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:38:54.6964969635009765625	
+X_Dimension	Time	
+X0	5.2893023490905762E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	8.000000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:38:55.2065262794494628906	
+X_Dimension	Time	
+X0	5.7993316650390625E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	8.000000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:38:55.6435513496398925781	
+X_Dimension	Time	
+X0	6.2363567352294922E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	10.000000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:38:56.2765874862670898438	
+X_Dimension	Time	
+X0	6.8693928718566894E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	9.000000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:38:56.6426081657409667969	
+X_Dimension	Time	
+X0	7.2354135513305664E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	7.000000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:38:57.1536374092102050781	
+X_Dimension	Time	
+X0	7.7464427947998047E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1965.000000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:38:57.6426653861999511719	
+X_Dimension	Time	
+X0	8.2354707717895508E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	2065.000000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:38:58.1426939964294433594	
+X_Dimension	Time	
+X0	8.7354993820190430E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	2119.000000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:38:58.6427226066589355469	
+X_Dimension	Time	
+X0	9.2355279922485352E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	2071.000000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:38:59.1647524833679199219	
+X_Dimension	Time	
+X0	9.7575578689575195E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1951.000000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:38:59.6457800865173339844	
+X_Dimension	Time	
+X0	1.0238585472106934E+1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	2021.000000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:39:00.221813201904296875	
+X_Dimension	Time	
+X0	1.0814618587493896E+1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	2063.000000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:39:00.7268419265747070313	
+X_Dimension	Time	
+X0	1.1319647312164307E+1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	2079.000000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:39:01.2418713569641113281	
+X_Dimension	Time	
+X0	1.1834676742553711E+1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1969.000000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:39:01.6428942680358886719	
+X_Dimension	Time	
+X0	1.2235699653625488E+1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1959.000000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:39:02.1429228782653808594	
+X_Dimension	Time	
+X0	1.2735728263854980E+1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1949.000000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:39:02.6429514884948730469	
+X_Dimension	Time	
+X0	1.3235756874084473E+1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	2042.000000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:39:03.1429800987243652344	
+X_Dimension	Time	
+X0	1.3735785484313965E+1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1235.400000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:39:03.6430087089538574219	
+X_Dimension	Time	
+X0	1.4235814094543457E+1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1625.600000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:39:04.1430373191833496094	
+X_Dimension	Time	
+X0	1.4735842704772949E+1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	2019.000000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:39:04.8340768814086914062	
+X_Dimension	Time	
+X0	1.5426882266998291E+1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	2016.600000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:39:05.1560955047607421875	
+X_Dimension	Time	
+X0	1.5748900890350342E+1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	2008.600000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:39:05.6431231498718261719	
+X_Dimension	Time	
+X0	1.6235928535461426E+1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	2020.200000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:39:06.1431517601013183594	
+X_Dimension	Time	
+X0	1.6735957145690918E+1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	2023.400000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:39:06.6431803703308105469	
+X_Dimension	Time	
+X0	1.7235985755920410E+1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1859.000000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:39:07.1762108802795410156	
+X_Dimension	Time	
+X0	1.7769016265869141E+1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1472.200000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:39:07.6932406425476074219	
+X_Dimension	Time	
+X0	1.8286046028137207E+1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1054.800000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:39:08.2272710800170898438	
+X_Dimension	Time	
+X0	1.8820076465606689E+1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	625.600000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:39:08.6432948112487792969	
+X_Dimension	Time	
+X0	1.9236100196838379E+1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	653.200000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:39:09.1543240547180175781	
+X_Dimension	Time	
+X0	1.9747129440307617E+1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	424.800000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:39:09.6433520317077636719	
+X_Dimension	Time	
+X0	2.0236157417297363E+1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	814.000000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:39:10.1433806419372558594	
+X_Dimension	Time	
+X0	2.0736186027526855E+1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1213.400000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:39:10.7734165191650390625	
+X_Dimension	Time	
+X0	2.1366221904754639E+1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1627.400000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:39:11.1434378623962402344	
+X_Dimension	Time	
+X0	2.1736243247985840E+1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1599.800000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:39:11.6434664726257324219	
+X_Dimension	Time	
+X0	2.2236271858215332E+1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1599.800000
+
+Channels	1	
+Samples	1	
+Date	2013/05/04	
+Time	08:39:12.1434950828552246094	
+X_Dimension	Time	
+X0	2.2736300468444824E+1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1210.400000
+
